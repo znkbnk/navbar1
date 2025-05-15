@@ -5,7 +5,7 @@
 Install the dependencies:
 
 ```bash
-npm install
+npm install gsap lucide-react
 ```
 
 ## Get started
